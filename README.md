@@ -3,6 +3,8 @@
 Um projeto feito por um Grupos de alunos da Faculdade com total intuito de aplicar o que aprendeu em sala dee aula em um projeto real para um cliente de maneira gratuita usando tecnologias como :
 
 <div align="center" style="display: inline_block">
+
+<br>
 <img align="center" alt="html" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="html" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="html" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
